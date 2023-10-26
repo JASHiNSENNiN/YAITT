@@ -1,2 +1,2 @@
-# YAITT
-Yet Another Image To Text
+# python-recog
+python-recog
