@@ -33,3 +33,4 @@ This project is licensed under the [MIT License](LICENSE).
 - [PyAutoGUI](https://pyautogui.readthedocs.io/)
 
 ## Author
+[JASHiN]([https://pyautogui.readthedocs.io/](https://github.com/JASHiNSENNiN)https://github.com/JASHiNSENNiN)
