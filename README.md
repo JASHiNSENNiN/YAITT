@@ -13,7 +13,7 @@ Before running the script, make sure you have the following libraries installed:
 ## Usage
 
 1. Connect a webcam to your computer.
-2. Run the script using the command `python cam_mouse.py`.
+2. Run the script using the command `python app.py`.
 3. A window will open showing the webcam feed with hand landmarks.
 4. Move your hand in front of the webcam to control the mouse cursor.
 5. Perform the following gestures to control the mouse:
